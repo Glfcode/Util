@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Util
 {
-    public class Class1
+    public class OleDbHelper
     {
+
     }
 }
